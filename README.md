@@ -1,6 +1,7 @@
 # 📊 Financial CRM
 
-**Financial CRM**, kişisel veya küçük işletme finans yönetimini kolaylaştıran bir masaüstü uygulamasıdır.  
+**Financial CRM**, kişisel veya küçük işletme finans yönetimini kolaylaştıran bir masaüstü uygulamasıdır.
+Murat Yücedağ hocamızın Kampınin final projesi olarak yapılmıştır.
 C# ve Windows Forms ile geliştirilmiş bu proje; 
 banka işlemleri, faturalar, giderler ve kategoriler gibi birçok özelliği bir araya getirerek kullanıcıya kapsamlı bir finans kontrolü sunar.  
 
